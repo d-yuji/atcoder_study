@@ -1,7 +1,8 @@
 # coding:utf-8
 
+
 def main():
-    print()
+    N = int(input())
 
 
 if __name__ == "__main__":
